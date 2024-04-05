@@ -22,6 +22,6 @@ The goal is to craft a clear, concise, and compelling resume that not only refle
 4. Submit the link to your GitHub Repo via the LMS Project Tab by the submission deadline.
 
 ### Link to Resume
-[Your Google Docs Resume](<insert your Google Docs link here>)
+[ Google Docs Resume](<https://docs.google.com/document/d/16htt_Y3wR0-MXZ5BzKjeEh5k2THzzIwL/edit?usp=sharing&ouid=100132019097983401853&rtpof=true&sd=true)
 
 This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace `<insert your Google Docs link here>` with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
